@@ -1,2 +1,2 @@
-# Comp202A3
-Comp 202 A3 questions
+A simple battle game.
+There are 3 attached text files.
