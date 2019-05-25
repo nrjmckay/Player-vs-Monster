@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.ArrayList;
-//Nolan Mckay, 260685413
+
 public class FileIO{
   //this method takes as input a filename(String fileName)
   //and returns a new character
