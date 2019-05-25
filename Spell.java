@@ -1,5 +1,5 @@
 import java.util.Random;
-//Nolan Mckay, 260685413
+
 public class Spell{
   private String spellName;
   private double minDamage;
