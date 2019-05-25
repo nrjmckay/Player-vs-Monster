@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.ArrayList;
-//Nolan Mckay
+
 public class Character{
   private String name;
   private double attackValue;
