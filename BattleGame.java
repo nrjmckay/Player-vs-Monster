@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.text.DecimalFormat;
 
-//Nolan Mckay, 260685413
+//Nolan Mckay
 //commands not working
 public class BattleGame{
   //method to assign txt files to characters
